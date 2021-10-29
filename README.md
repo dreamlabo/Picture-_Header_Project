@@ -18,3 +18,21 @@ YouTube: https://youtu.be/h3EALjErANM
  * HTML
  * CSS
 
+#### Header before scroll (Transparent)
+![Header_1](https://github.com/dreamlabo/Picture-_Header_Project/blob/master/images/Header_1.JPG)
+
+
+
+#### Header after scroll (Backgound now white)
+![Header_2](https://github.com/dreamlabo/Picture-_Header_Project/blob/master/images/Header_2JPG.JPG)
+
+
+
+#### Second part of landing page
+![Header_3](https://github.com/dreamlabo/Picture-_Header_Project/blob/master/images/Header_3.JPG)
+
+
+
+#### "Case study" portion of landing page
+![Header_4](https://github.com/dreamlabo/Picture-_Header_Project/blob/master/images/Header_4.jpg)
+
